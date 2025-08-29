@@ -1,0 +1,478 @@
+#Enable this to allow the creation of a datapack in each world you make that determines the configurations for this mod. If disabled, the enchantments will still be configurable but values determining compatibility, treasure, obtainability in survival, weight and max level won't work.
+"Allow configurations" = false
+
+["Poison Cloud"]
+	#Determines whether Poison Cloud should be obtainable in survival
+	"Should Poison Cloud exist?" = true
+	#Determines whether Poison Cloud should be a treasure enchantment
+	"Should Poison Cloud be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 3.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 2.0
+	#Determines the area of effect per level of the Poison
+	"Area of Effect" = 3.0
+	#Determines the level of poison each level should apply
+	"Poison level" = 1.0
+	#Determines the duration of the poison applied
+	"Poison duration" = 90.0
+
+[Auto-Smelting]
+	#Determines whether Auto-Smelting should be obtainable in survival
+	"Should Auto-Smelting exist?" = true
+	#Determines whether Auto-Smelting should be a treasure enchantment
+	"Should Auto-Smelting be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+
+[Rebirth]
+	#Determines whether Rebirth should be obtainable in survival
+	"Should Rebirth exist?" = true
+	#Determines whether Rebirth should be a treasure enchantment
+	"Should Rebirth be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Should Rebirth save you from death but destroy the shield (true) or damage the shield and consume a totem (false)
+	"Rebirth Mode" = true
+
+[Stunning]
+	#Determines whether Rebirth should be obtainable in survival
+	"Should Stunning exist?" = true
+	#Determines whether Rebirth should be a treasure enchantment
+	"Should Stunning be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the amount of ticks Stunning should slow for
+	"Slowness Ticks" = 60.0
+	#Determines the amount of ticks Stunning should weaken for
+	"Weakness Ticks" = 60.0
+	#Determines the amount of ticks Stunning should disable shields for
+	"Disable Shield Ticks" = 100.0
+	#Determines the cooldown in ticks between stuns, displayed on the item
+	"Stun Cooldown" = 200.0
+
+[Agility]
+	#Determines whether Agility should be obtainable in survival
+	"Should Agility exist?" = true
+	#Determines whether Agility should be a treasure enchantment
+	"Should Agility be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the movement speed attribute increase given by Agility
+	"Speed Increase" = 0.01
+
+["Blood Blade"]
+	#Determines whether Blood Blade should be obtainable in survival
+	"Should Blood Blade exist?" = true
+	#Determines whether Blood Blade should be a treasure enchantment
+	"Should Agility be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 4.0
+	#Determines the Health each level of Blood Blade should regenerate for each kill
+	"Health Regeneration" = 0.25
+
+[Radiance]
+	#Determines whether Radiance should be obtainable in survival
+	"Should Radiance exist?" = true
+	#Determines whether Radiance should be a treasure enchantment
+	"Should Radiance be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the cooldown in ticks between each repair under the sun
+	"Repair Cooldown" = 100.0
+
+[Jumper]
+	#Determines whether Jumper should be obtainable in survival
+	"Should Jumper exist?" = true
+	#Determines whether Jumper should be a treasure enchantment
+	"Should Jumper be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the jump increase given in blocks
+	"Jump Increase" = 1.0
+	#Determines whether Jumper should reduce fall damage by an amount equal to the extra blocks jumped
+	"Reduce Fall damage" = true
+
+["Pain Power"]
+	#Determines whether Pain Power should be obtainable in survival
+	"Should Pain Power exist?" = true
+	#Determines whether Pain Power should be a treasure enchantment
+	"Should Pain Power be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the HP percentage at which Pain Power should apply its effects
+	"Low HP Percentage" = 40.0
+	#(This value)(4)(Pain Power level) = percentage of damage protected
+	"Resistance Modifier" = 1.0
+	#Determines the speed increase given by pain power at low hp
+	"Speed Modifier" = 0.01
+
+["Cooling Touch"]
+	#Determines whether Cooling Touch should be obtainable in survival
+	"Should Cooling Touch exist?" = true
+	#Determines whether Cooling Touch should be a treasure enchantment
+	"Should Cooling Touch be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 2.0
+	#Determines the amount of ticks (1/20 of a second) for which Ice Aspect should freeze every level
+	"Freeze Per Level" = 50.0
+
+[Bait]
+	#Determines whether Bait should be obtainable in survival
+	"Should Bait exist?" = true
+	#Determines whether Bait should be a treasure enchantment
+	"Should Bait be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 4.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the chance per level to get an extra catch while fishing
+	"Bait Chance" = 15.0
+	#Determines whether Bait should only pull fish
+	"Only fish" = false
+
+[Lightness]
+	#Determines whether Lightness should be obtainable in survival
+	"Should Lightness exist?" = true
+	#Determines whether Lightness should be a treasure enchantment
+	"Should Lightness be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 4.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the amount of attack speed that each level of Lightness should increase
+	"Attack Speed Modifier" = 0.1
+
+[Reach]
+	#Determines whether Reach should be obtainable in survival
+	"Should Reach exist?" = true
+	#Determines whether Reach should be a treasure enchantment
+	"Should Reach be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 5.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the increase in block reach for each level of Reach
+	"Increased block reach" = 0.33
+	#Determines the increase in attack range for each level of Reach
+	"Increased attack range" = 0.15
+
+[Floating]
+	#Determines whether Floating should be obtainable in survival
+	"Should Floating exist?" = true
+	#Determines whether Floating should be a treasure enchantment
+	"Should Floating be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the attribute modification each level of Floating
+	"Slowed Fall" = 0.01
+
+[Blocking]
+	#Determines whether Blocking should be obtainable in survival
+	"Should Blocking exist?" = true
+	#Determines whether Blocking should be a treasure enchantment
+	"Should Blocking be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 5.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 2.0
+	#Determines the percentage chance to block attacks for each level of blocking
+	"Blocking Percentage" = 5.0
+
+[Boosting]
+	#Determines whether Boosting should be obtainable in survival
+	"Should Boosting exist?" = true
+	#Determines whether Boosting should be a treasure enchantment
+	"Should Boosting be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 5.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier per level to the extra XP granted 
+	"XP Modifier" = 0.1
+
+["Lava Walker"]
+	#Determines whether Lava Walker should be obtainable in survival
+	"Should Lava Walker exist?" = true
+	#Determines whether Lava Walker should be a treasure enchantment
+	"Should Lava Walker be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 2.0
+	#Determines the modifier compared to Frost Walker for the size of the disk
+	"Basalt Modifier" = 0.5
+
+[Spikes]
+	#Determines whether Spikes should be obtainable in survival
+	"Should Spikes exist?" = true
+	#Determines whether Spikes should be a treasure enchantment
+	"Should Spikes be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 4.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the damage per level to be reflected
+	Damage = 0.5
+
+[Reflection]
+	#Determines whether Reflection should be obtainable in survival
+	"Should Reflection exist?" = true
+	#Determines whether Reflection should be a treasure enchantment
+	"Should Reflection be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier for the speed of the projectile to be sent back per level
+	"Speed Per Level" = 1.5
+
+[Acceleration]
+	#Determines whether Acceleration should be obtainable in survival
+	"Should Acceleration exist?" = true
+	#Determines whether Acceleration should be a treasure enchantment
+	"Should Acceleration be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier accelerated per level of Acceleration, applied at the moment the projectile is fired
+	"Acceleration Modifier" = 0.1
+
+[Execution]
+	#Determines whether Execution should be obtainable in survival
+	"Should Execution exist?" = true
+	#Determines whether Execution should be a treasure enchantment
+	"Should Execution be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 4.0
+	#Determines the percentage per level of Execution for the minimum insta-kill HP
+	"Percentage per Level" = 5.0
+	#Determines the maximum possible damage that Execution can deal
+	"Maximum health" = 5.0
+	#Determines the eprcentage chance each level of Execution should have to drop mob heads 
+	"Head Drop percentage" = 0.0
+
+["Blaze Guard"]
+	#Determines whether Blaze Guard should be obtainable in survival
+	"Should Blaze Guard exist?" = true
+	#Determines whether Blaze Guard should be a treasure enchantment
+	"Should Blaze Guard be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 3.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the seconds of burn time inflicted by each level of Blaze Guard
+	"Fire Seconds" = 1.5
+
+[Wave]
+	#Determines whether Wave should be obtainable in survival
+	"Should Wave exist?" = true
+	#Determines whether Wave should be a treasure enchantment
+	"Should Wave be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier for the inverted knockback given each level
+	"Wave modifier" = 1.5
+	#Allow the effect to activate from melee attacks
+	"Allow Melee" = false
+
+[Soaring]
+	#Determines whether Soaring should be obtainable in survival
+	"Should Soaring exist?" = true
+	#Determines whether Soaring should be a treasure enchantment
+	"Should Soaring be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier to the speed added by Soaring
+	"Soaring Modifier" = 2.0
+
+["Chill Guard"]
+	#Determines whether Chill Guard should be obtainable in survival
+	"Should Chill Guard exist?" = true
+	#Determines whether Chill Guard should be a treasure enchantment
+	"Should Chill Guard be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 3.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the seconds each level of Chill Guard should freeze for
+	"Chill Guard Seconds" = 2.0
+
+[Sensing]
+	#Determines whether Sensing should be obtainable in survival
+	"Should Sensing exist?" = true
+	#Determines whether Sensing should be a treasure enchantment
+	"Should Sensing be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the way Sensing should work: Give night vision permanently (false) or generate light around the user (true)
+	"Sensing Mode" = true
+
+[Replanting]
+	#Determines whether Replanting should be obtainable in survival
+	"Should Replanting exist?" = true
+	#Determines whether Replanting should be a treasure enchantment
+	"Should Replanting be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+
+["Anti-Water Bane"]
+	#Determines whether Anti-Water Bane should be obtainable in survival
+	"Should Anti-Water Bane exist?" = true
+	#Determines whether Anti-Water Bane should be a treasure enchantment
+	"Should Anti-Water Bane be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 5.0
+	#Determines the damage per level added by Anti-Water Bane
+	"Bane Damage" = 2.5
+
+["Oath of the Nose"]
+	#Determines whether Oath of the Nose should be obtainable in survival
+	"Should Oath of the Nose exist?" = true
+	#Determines whether Oath of the Nose should be a treasure enchantment
+	"Should Oath of the Nose be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 5.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 5.0
+	#Determines the damage per level added by Oath of the Nose
+	"Oath Damage" = 2.5
+
+[Frostbite]
+	#Determines whether Frostbite should be obtainable in survival
+	"Should Frostbite exist?" = true
+	#Determines whether Frostbite should be a treasure enchantment
+	"Should Frostbite be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the freeze time given by Frostbite
+	"Frostbite Seconds" = 5.0
+
+[Shove]
+	#Determines whether Shove should be obtainable in survival
+	"Should Shove exist?" = true
+	#Determines whether Shove should be a treasure enchantment
+	"Should Shove be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the push modifier per level
+	"Push Modifier" = 0.4
+
+[Padding]
+	#Determines whether Padding should be obtainable in survival
+	"Should Padding exist?" = true
+	#Determines whether Padding should be a treasure enchantment
+	"Should Padding be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 4.0
+	#Determines the armor granted each level
+	"Armor Modifier" = 0.5
+	#Determines the kinetic damage protection points per level (1 point=4%)
+	"Kinetic Damage Modifier" = 4.0
+
+[Fleetfoot]
+	#Determines whether Fleetfoot should be obtainable in survival
+	"Should Fleetfoot exist?" = true
+	#Determines whether Fleetfoot should be a treasure enchantment
+	"Should Fleetfoot be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the modifier for the exhaustion reduced by Fleetfoot
+	"Exhaustion Modifier" = 10.0
+
+[Turbulence]
+	#Determines whether Turbulence should be obtainable in survival
+	"Should Turbulence exist?" = true
+	#Determines whether Turbulence should be a treasure enchantment
+	"Should Turbulence be a treasure enchantment?" = false
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 4.0
+	#Determines the modifier for the increased damage
+	"Extra Damage" = 0.5
+
+[Chaining]
+	#Determines whether Chaining should be obtainable in survival
+	"Should Chaining exist?" = true
+	#Determines whether Chaining should be a treasure enchantment
+	"Should Chaining be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 1.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 3.0
+	#Determines the area in blocks that Chaining can find enemies in
+	Range = 8.0
+
+["Runic Ward"]
+	#Determines whether Runic Ward should be obtainable in survival
+	"Should Runic Ward exist?" = true
+	#Determines whether Runic Ward should be a treasure enchantment
+	"Should Runic Ward be a treasure enchantment?" = true
+	#Determines the weight of this enchantment in loot tables. Vanilla enchantments use a value from 1-10.
+	Weight = 2.0
+	#Determines the maximum obtainable level of this enchantment
+	"Max Level" = 4.0
+	#Determines the absorption amount modifier for absorption per level
+	"Absorption Per Level" = 1.0
+	#Determines the cooldown of this enchantment for each absorption heart. Operation is (this number)/(enchantment level)
+	Cooldown = 60.0
+	#Determines whether it should show enchantment particles when hitting a player with absorption hearts given by Runic Ward
+	"Particle effect" = true
+
+[Compatibility]
+	"Poison Cloud and Cooling Touch with Fire Aspect" = false
+	"Poison Cloud with Cooling Touch" = false
+	"Auto-Smelting with Fortune" = false
+	"Agility with Jumper" = false
+	"Agility and Jumper with Swift Sneak" = false
+	"Lightness and Reach with Sweeping Edge" = false
+	"Lightness with Reach" = false
+	"Blood Blade and Boosting with Looting" = false
+	"Blood Blade with Boosting" = false
+	"Boosting with Fortune" = false
+	"Boosting with Auto-Smelting" = false
+	"Boosting with Silk Touch" = false
+	"Lava Walker with Frost Walker" = false
+	"Lava Walker with Depth Strider" = false
+	"Radiance with Mending" = false
+	"Reflection with Spikes" = false
+	"Wave with Riptide" = false
+	"Wave with Channeling" = true
+	"Chill Guard with Blaze Guard" = false
+	"Sensing with Respiration" = false
+	"Sensing with Aqua Affinity" = false
+	"Anti-Water Bane with Impaling" = false
+	"Oath of the Nose with Damage enchants" = false
+	"Frostbite with Flame" = false
+	"Blocking with Shove" = false
+	"Fleetfoot with Depth Strider" = false
+	"Turbulence with Acceleration" = false
+	"Chaining with Loyalty" = true
+	"Chaining with Riptide" = false
+	"Runic Ward with Pain Power" = false
