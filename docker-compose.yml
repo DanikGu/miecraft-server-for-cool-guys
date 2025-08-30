@@ -20,6 +20,7 @@ services:
         Cyber__Sammy
       EXISTING_OPS_FILE: "SYNCHRONIZE"
       ALLOW_FLIGHT: "true"
+      SEED: "2581923102652391673"
     # deploy:
     #   resources:
     #     limits:
