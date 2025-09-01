@@ -18,6 +18,10 @@ services:
       ENABLE_COMMAND_BLOCK: "true"
       OPS: |-
         Cyber__Sammy
+        VeryOldBerry
+        DanikGu
+        BioWolfXXX
+        Mivaoaoa
       EXISTING_OPS_FILE: "SYNCHRONIZE"
       ALLOW_FLIGHT: "true"
       SEED: "2581923102652391673"
