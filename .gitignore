@@ -1,13 +1,9 @@
-./data/world
-./data/logs
 ./data/fabricloader.log
 ./data/libraries
 ./data/patchouli_books
 data/.cache/resourcefullib
 data/.local/share/resourcefullib
 data/libraries
-data/logs
 data/mods/.connector
-data/world
 data/.rcon-cli.env
 data/.rcon-cli.yaml
