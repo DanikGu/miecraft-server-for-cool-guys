@@ -5,7 +5,7 @@ services:
     stdin_open: true
     ports:
       - "25565:25565"
-      - "24454:24454/udp"
+      - "30001:30001/udp"
     environment:
       EULA: "TRUE"
       TYPE: "NEOFORGE"
@@ -26,5 +26,6 @@ services:
       EXISTING_OPS_FILE: "SYNCHRONIZE"
       ALLOW_FLIGHT: "true"
       SEED: "2581923102652391673"
+      ENFORCE_SECURE_PROFILE: "false"
     volumes:
       - "./data:/data"
