@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -140,6 +146,12 @@
   "ars_elemental:recipes/misc/ritual_archwood_forest": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "hearthandharvest:recipes/decorations/cask": {
+    "criteria": {
+      "has_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -266,6 +284,12 @@
   "ars_nouveau:recipes/misc/relay": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/copper_wire_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -311,15 +335,39 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-09-05 22:26:50 +0300"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_hanging_sign": {
+    "criteria": {
+      "has_material": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -338,6 +386,12 @@
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -443,9 +497,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-09-05 22:29:02 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -509,6 +575,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2025-09-05 22:59:47 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -538,6 +610,12 @@
       "has_journal": "2025-09-05 22:24:41 +0300"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
@@ -599,6 +677,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/screw_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/flashing_sapling": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -620,6 +704,12 @@
   "ars_nouveau:recipes/misc/source_lamp": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -653,9 +743,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/tools/flint_cleaver": {
+    "criteria": {
+      "has_flint": "2025-09-05 23:00:22 +0300"
     },
     "done": true
   },
@@ -695,6 +797,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-09-05 22:54:05 +0300"
@@ -719,6 +827,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_trapdoor": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_disintegration": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -731,15 +845,33 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/starbuncle_shades": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_sign": {
+    "criteria": {
+      "has_material": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -875,9 +1007,33 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_door": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -935,6 +1091,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/buzzsaw": {
+    "criteria": {
+      "has_component_steel": "2025-09-05 23:01:15 +0300"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -959,15 +1121,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flowering": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/materials/copper_frame": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -1028,6 +1214,12 @@
   "aquaculture:recipes/aquaculture/tackle_box": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -1116,6 +1308,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -1164,6 +1362,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -1175,6 +1379,12 @@
       "has_journal": "2025-09-05 22:24:41 +0300"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
@@ -1191,6 +1401,12 @@
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -1233,6 +1449,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -1320,6 +1542,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/birch_trim": {
     "criteria": {
       "has_planks": "2025-09-05 22:24:41 +0300"
@@ -1386,6 +1614,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-09-05 22:27:17 +0300"
@@ -1416,6 +1650,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/industrial_pipe_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/turtle_soup": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
@@ -1443,6 +1683,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/rebar_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -1481,6 +1727,18 @@
       "has_item": "2025-09-05 22:54:05 +0300"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
@@ -1542,11 +1800,23 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
@@ -1557,6 +1827,12 @@
   "ars_nouveau:recipes/misc/mendosteen_to_lime": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -1626,6 +1902,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -1686,6 +1968,24 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/materials/copper_truss": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -1734,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-05 23:00:22 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -1743,6 +2049,12 @@
   "immersiveengineering:recipes/misc/crafting/survey_tools": {
     "criteria": {
       "has_hammer": "2025-09-05 22:57:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -1921,6 +2233,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -2020,6 +2338,18 @@
   "ars_nouveau:recipes/misc/yellow_sbed": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_chestplate": {
+    "criteria": {
+      "has_steel_plate": "2025-09-05 22:59:52 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_leggings": {
+    "criteria": {
+      "has_steel_plate": "2025-09-05 22:59:52 +0300"
     },
     "done": true
   },
@@ -2161,6 +2491,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-09-05 22:35:44 +0300"
@@ -2179,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-05 23:00:22 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -2194,6 +2536,12 @@
   "ars_elemental:recipes/misc/curio_bag": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -2242,6 +2590,18 @@
   "biomeswevegone:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_to_ingot_steel": {
+    "criteria": {
+      "has_storage_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -2302,6 +2662,12 @@
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -2371,6 +2737,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -2380,6 +2752,12 @@
   "aquaculture:recipes/combat/neptunium_bow": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -2395,6 +2773,12 @@
       "has_chest": "2025-09-05 22:24:41 +0300"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
@@ -2432,6 +2816,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_restoration": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -2460,6 +2850,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-09-05 22:54:05 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2025-09-05 22:59:47 +0300"
     },
     "done": true
   },
@@ -2560,6 +2956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-05 22:53:58 +0300",
@@ -2614,6 +3016,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
+    "criteria": {
+      "has_steel_plate": "2025-09-05 22:59:52 +0300"
     },
     "done": true
   },
@@ -2707,6 +3115,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -2767,9 +3181,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-09-05 22:24:42 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -2782,6 +3208,12 @@
   "hearthandharvest:recipes/food/carrot_cake": {
     "criteria": {
       "has_carrot": "2025-09-05 22:54:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -2839,9 +3271,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -2860,6 +3310,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
+    "criteria": {
+      "has_ingot_steel": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -3096,6 +3552,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -3123,6 +3585,12 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -3275,6 +3743,12 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -3434,11 +3908,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-05 22:39:41 +0300"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
   },
   "hearthandharvest:recipes/building_blocks/water_crate": {
     "criteria": {
@@ -3464,15 +3956,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
+    "criteria": {
+      "has_steel_plate": "2025-09-05 22:59:52 +0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel": {
+    "criteria": {
+      "has_plate_steel": "2025-09-05 22:59:52 +0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2025-09-05 22:59:47 +0300"
     },
     "done": true
   },
@@ -3603,9 +4113,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -3627,6 +4149,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-05 22:54:05 +0300"
@@ -3642,6 +4170,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
+    "criteria": {
+      "has_component_steel": "2025-09-05 23:01:15 +0300"
     },
     "done": true
   },
@@ -3711,6 +4245,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 23:00:20 +0300"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -3726,6 +4266,12 @@
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },
@@ -3795,6 +4341,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2025-09-05 22:59:52 +0300"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2025-09-05 22:24:41 +0300"
@@ -3825,6 +4377,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -3840,6 +4398,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -3963,6 +4527,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -4000,6 +4570,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -4009,6 +4585,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -4072,6 +4654,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
@@ -4132,6 +4720,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_fence_gate": {
+    "criteria": {
+      "has_steel_ingot": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-09-05 22:25:25 +0300"
@@ -4144,11 +4738,29 @@
     },
     "done": true
   },
+  "hearthandharvest:recipes/tools/watering_can": {
+    "criteria": {
+      "has_copper": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-09-05 23:01:02 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-09-05 22:24:42 +0300"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-09-05 22:59:38 +0300"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
@@ -4190,6 +4802,12 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-09-05 22:29:02 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-05 23:01:02 +0300"
     },
     "done": true
   },
@@ -4257,6 +4875,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-09-05 22:24:41 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2025-09-05 22:59:38 +0300"
     },
     "done": true
   },

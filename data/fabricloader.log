@@ -1,3 +1,3 @@
-[21:49:11] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[21:53:27] [WARN] [FabricLoader/Resolution]: Warnings were found!
  - §Emod 'Concurrent Chunk Management Engine' (c2me)§r 0.3.0+alpha.0.320+1.21.1 conflicts with any version of §6mod 'betterchunkloading mod' (betterchunkloading)§r, which is present with the following versions: 5.4!
 	 - While this won't prevent you from starting the game, the developer(s) of mod 'Concurrent Chunk Management Engine' (c2me) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.

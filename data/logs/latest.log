@@ -2720,3 +2720,31 @@ java.lang.NoSuchFieldException: CHUNK_LEVEL_TYPE_CHANGE
 [05Sep2025 22:58:34.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VeryOldBerry: Set own game mode to Creative Mode]
 [05Sep2025 22:59:05.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VeryOldBerry: Set own game mode to Survival Mode]
 [05Sep2025 22:59:38.268] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: VeryOldBerry has reached the goal [The Upgrade]
+[05Sep2025 23:01:17.576] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[05Sep2025 23:01:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Stopping the server]
+[05Sep2025 23:01:17.578] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[05Sep2025 23:01:17.608] [C2ME Storage #14/INFO] [C2ME Storage/]: Storage thread Thread[#163,C2ME Storage #14,8,SERVER] stopped
+[05Sep2025 23:01:17.608] [C2ME Storage #13/INFO] [C2ME Storage/]: Storage thread Thread[#162,C2ME Storage #13,8,SERVER] stopped
+[05Sep2025 23:01:17.608] [C2ME Storage #15/INFO] [C2ME Storage/]: Storage thread Thread[#165,C2ME Storage #15,8,SERVER] stopped
+[05Sep2025 23:01:17.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 23:01:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 23:01:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 23:01:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerLevel[world]/minecraft:overworld: waiting for 4467 chunks to unload
+[05Sep2025 23:01:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Sep2025 23:01:18.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Sep2025 23:01:18.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Sep2025 23:01:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 23:01:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 23:01:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 23:01:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Sep2025 23:01:18.100] [C2ME Storage #3/INFO] [C2ME Storage/]: Storage thread Thread[#140,C2ME Storage #3,8,SERVER] stopped
+[05Sep2025 23:01:18.113] [C2ME Storage #2/INFO] [C2ME Storage/]: Storage thread Thread[#136,C2ME Storage #2,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #1/INFO] [C2ME Storage/]: Storage thread Thread[#135,C2ME Storage #1,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #6/INFO] [C2ME Storage/]: Storage thread Thread[#146,C2ME Storage #6,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #5/INFO] [C2ME Storage/]: Storage thread Thread[#145,C2ME Storage #5,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #4/INFO] [C2ME Storage/]: Storage thread Thread[#144,C2ME Storage #4,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #9/INFO] [C2ME Storage/]: Storage thread Thread[#151,C2ME Storage #9,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #8/INFO] [C2ME Storage/]: Storage thread Thread[#150,C2ME Storage #8,8,SERVER] stopped
+[05Sep2025 23:01:18.126] [C2ME Storage #7/INFO] [C2ME Storage/]: Storage thread Thread[#149,C2ME Storage #7,8,SERVER] stopped
+[05Sep2025 23:01:18.130] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config mutantmonsters-server.toml
+[05Sep2025 23:01:18.132] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped
