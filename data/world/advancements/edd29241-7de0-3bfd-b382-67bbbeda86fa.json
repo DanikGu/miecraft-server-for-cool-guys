@@ -3409,99 +3409,24 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_infested_temple": {
     "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 22:50:20 +0300"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-09-05 22:35:43 +0300"
+      "location0": "2025-09-05 22:22:48 +0300"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2025-09-05 22:31:53 +0300",
+      "minecraft:cold_ocean": "2025-09-05 22:31:51 +0300",
+      "minecraft:forest": "2025-09-05 22:29:01 +0300",
+      "minecraft:lukewarm_ocean": "2025-09-05 22:27:09 +0300"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/stock_ticker_clear": {
-    "criteria": {
-      "has_item": "2025-09-05 22:30:56 +0300"
     },
     "done": true
   },
@@ -3514,18 +3439,6 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-09-05 22:35:43 +0300"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-09-05 22:30:50 +0300"
     },
     "done": true
   },
@@ -3547,12 +3460,6 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-09-05 22:33:38 +0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-09-05 22:29:47 +0300"
@@ -3571,21 +3478,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2025-09-05 22:22:48 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-09-05 22:35:43 +0300"
     },
     "done": true
   },
@@ -3595,58 +3490,15 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/energizing_mixture": {
-    "criteria": {
-      "has_carrot": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-09-05 22:29:47 +0300"
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-05 22:41:30 +0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "melon_slice": "2025-09-05 22:41:30 +0300",
-      "carrot": "2025-09-05 22:42:03 +0300"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/logistics/stock_link_clear": {
-    "criteria": {
-      "has_item": "2025-09-05 22:30:59 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-09-05 22:35:43 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
     },
     "done": true
   },
@@ -3680,21 +3532,9 @@
     },
     "done": true
   },
-  "hearthandharvest:recipes/food/carrot_cake": {
-    "criteria": {
-      "has_carrot": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-09-05 22:44:58 +0300"
     },
     "done": true
   },
@@ -3710,63 +3550,15 @@
     },
     "done": true
   },
-  "create:stock_ticker": {
-    "criteria": {
-      "0": "2025-09-05 22:41:58 +0300"
-    },
-    "done": true
-  },
-  "hearthandharvest:recipes/aging/pickled_carrots": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-09-05 22:35:43 +0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-09-05 22:29:47 +0300"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-09-05 22:29:47 +0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-05 22:41:30 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/factory_gauge": {
-    "criteria": {
-      "has_item": "2025-09-05 22:30:59 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
     },
     "done": true
   },
@@ -3788,12 +3580,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-05 22:42:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-05 22:29:47 +0300"
@@ -3806,12 +3592,226 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "create:burner": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-09-05 22:31:53 +0300",
-      "minecraft:cold_ocean": "2025-09-05 22:31:51 +0300",
-      "minecraft:forest": "2025-09-05 22:29:01 +0300",
-      "minecraft:lukewarm_ocean": "2025-09-05 22:27:09 +0300"
+      "0": "2025-09-05 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker_clear": {
+    "criteria": {
+      "has_item": "2025-09-05 22:30:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link_clear": {
+    "criteria": {
+      "has_item": "2025-09-05 22:30:59 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/factory_gauge": {
+    "criteria": {
+      "has_item": "2025-09-05 22:30:59 +0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-09-05 22:33:38 +0300"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-09-05 22:35:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-05 22:35:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-05 22:35:43 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-05 22:35:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-05 22:35:43 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-05 22:41:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-09-05 22:41:30 +0300",
+      "carrot": "2025-09-05 22:42:03 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-05 22:41:30 +0300"
+    },
+    "done": true
+  },
+  "create:stock_ticker": {
+    "criteria": {
+      "0": "2025-09-05 22:41:58 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/energizing_mixture": {
+    "criteria": {
+      "has_carrot": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/food/carrot_cake": {
+    "criteria": {
+      "has_carrot": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/aging/pickled_carrots": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-05 22:42:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-05 22:44:58 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 12:00:44 +0300"
     },
     "done": false
   },

@@ -2869,69 +2869,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-09-05 21:46:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
     },
     "done": false
   },
@@ -2947,21 +2887,9 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
-    },
-    "done": false
-  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:lush_stacks": "2025-09-05 21:46:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-05 21:51:59 +0300"
     },
     "done": false
   },
@@ -2976,6 +2904,1652 @@
       "log_spam_fixer": "2025-09-05 21:46:47 +0300"
     },
     "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-06 11:32:45 +0300"
+    },
+    "done": false
+  },
+  "hearthandharvest:recipes/tools/iron_cleaver": {
+    "criteria": {
+      "has_iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/cooking/salt_from_bottle": {
+    "criteria": {
+      "has_water_bottle": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-06 11:28:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "xtraarrows:recipes/all_recipes": {
+    "criteria": {
+      "has_arrow": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/iron_golem_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-06 11:31:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_dining_bench": {
+    "criteria": {
+      "has_mangrove_dining_bench": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-09-06 11:29:03 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/decorations/tree_tapper": {
+    "criteria": {
+      "has_iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_table": {
+    "criteria": {
+      "has_mangrove_table": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_couch": {
+    "criteria": {
+      "has_mangrove_couch": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/roman_guard_shinguard": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-06 11:33:01 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/roman_guard_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_bench": {
+    "criteria": {
+      "has_mangrove_bench": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_desk": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_corner_trim": {
+    "criteria": {
+      "has_mangrove_corner_trim": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_barrel": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/decorations/jug": {
+    "criteria": {
+      "has_iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_drawer": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-09-06 11:32:37 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-09-06 11:28:18 +0300"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/mangrove_pillar_trim": {
+    "criteria": {
+      "has_mangrove_pillar_trim": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-09-06 11:30:57 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_counter": {
+    "criteria": {
+      "has_mangrove_counter": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-09-06 11:32:37 +0300"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/mangrove_shelf": {
+    "criteria": {
+      "has_mangrove_shelf": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_chest": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_chair": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:29:03 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-06 11:33:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-06 11:32:37 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/iron_golem_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:stock_ticker": {
+    "criteria": {
+      "0": "2025-09-06 11:30:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "hearthandharvest:recipes/building_blocks/water_crate": {
+    "criteria": {
+      "has_water_bottle": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:55 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/spirit_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/roman_guard_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_mangrove_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/small_light_connector": {
+    "criteria": {
+      "has_glass_block": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
+    "criteria": {
+      "has _plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-06 11:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-06 11:33:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-06 11:29:03 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "createaddition:recipes/combat/crafting/electrum_amulet": {
+    "criteria": {
+      "has_emerald": "2025-09-06 11:33:01 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/iron_golem_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_fancy_bed": {
+    "criteria": {
+      "has_mangrove_fancy_bed": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_nightstand": {
+    "criteria": {
+      "has_mangrove_nightstand": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2025-09-06 11:33:19 +0300",
+      "minecraft:cold_ocean": "2025-09-06 11:32:19 +0300",
+      "minecraft:forest": "2025-09-06 11:28:06 +0300"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_side_table": {
+    "criteria": {
+      "has_mangrove_side_table": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_cupboard": {
+    "criteria": {
+      "has_mangrove_cupboard": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 11:28:54 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
