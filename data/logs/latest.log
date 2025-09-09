@@ -2461,3 +2461,26 @@ java.lang.NoSuchFieldException: CHUNK_LEVEL_TYPE_CHANGE
 [09Sep2025 20:33:39.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6e82f46-c2b6-345e-9866-47db8c12c4b6
 [09Sep2025 20:33:39.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DanikGu (e6e82f46-c2b6-345e-9866-47db8c12c4b6) successfully connected to voice chat
 [09Sep2025 20:33:51.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6738ms or 134 ticks behind
+[09Sep2025 20:44:35.255] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: DanikGu was slain by The Hunter
+[09Sep2025 20:45:35.601] [dimthread_server_overworld/ERROR] [net.neoforged.neoforge.fluids.FluidStack/]: Tried to load invalid fluid: 'No key amount in MapLike[{}]; No key id in MapLike[{}]'
+[09Sep2025 20:45:36.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Sep2025 20:45:36.727] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for [!!!de.markusbordihn.easynpc.entity.easynpc.npc.Skeleton@2ca47756=>java.lang.NullPointerException:Cannot invoke "net.minecraft.network.syncher.SynchedEntityData.get(net.minecraft.network.syncher.EntityDataAccessor)" because "this.entityData" is null!!!] ...
+[09Sep2025 20:45:36.731] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['Skeleton'/1456, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[09Sep2025 20:45:36.740] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton'/1456, l='ServerLevel[world]', x=-2681.45, y=83.12, z=-880.01].
+[09Sep2025 20:45:36.777] [dimthread_server_overworld/INFO] [STDOUT/]: [xyz.iwolfking.createfiltersanywhere.CreateVersion:getCreateVersion:23]: Create-Filters-Anywhere - Detected create: CREATE_06 - 6.0.6
+[09Sep2025 20:45:42.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DanikGu: Teleported DanikGu to -2144.500000, 92.500000, -602.500000]
+[09Sep2025 20:45:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DanikGu: Teleported DanikGu to -2709.500000, 81.500000, -894.500000]
+[09Sep2025 20:45:51.741] [Server thread/ERROR] [net.neoforged.neoforge.fluids.FluidStack/]: Tried to load invalid fluid: 'No key amount in MapLike[{}]; No key id in MapLike[{}]'
+[09Sep2025 20:45:52.318] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for [!!!de.markusbordihn.easynpc.entity.easynpc.npc.Skeleton@589f98f6=>java.lang.NullPointerException:Cannot invoke "net.minecraft.network.syncher.SynchedEntityData.get(net.minecraft.network.syncher.EntityDataAccessor)" because "this.entityData" is null!!!] ...
+[09Sep2025 20:45:52.319] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['Skeleton'/1851, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[09Sep2025 20:45:52.319] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton'/1851, l='ServerLevel[world]', x=-2681.45, y=83.00, z=-880.01].
+[09Sep2025 20:46:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DanikGu: Teleported DanikGu to -2581.500000, 146.500000, -1036.500000]
+[09Sep2025 20:46:20.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DanikGu moved too quickly! 125.07335044992669,65.5,-143.58425526597216
+[09Sep2025 20:47:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DanikGu has made the advancement [Good Demoman]
+[09Sep2025 20:48:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DanikGu: Teleported DanikGu to -2709.500000, 81.500000, -894.500000]
+[09Sep2025 20:48:06.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DanikGu moved too quickly! -134.34452351837263,-64.5,144.80000001192093
+[09Sep2025 20:48:06.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DanikGu moved too quickly! -134.34452351837263,-64.5,144.80000001192093
+[09Sep2025 20:48:18.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DanikGu lost connection: Disconnected
+[09Sep2025 20:48:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DanikGu left the game
+[09Sep2025 20:48:18.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6e82f46-c2b6-345e-9866-47db8c12c4b6 was unloaded
+[09Sep2025 20:48:18.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DanikGu
