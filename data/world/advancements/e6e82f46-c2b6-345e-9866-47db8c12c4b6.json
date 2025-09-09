@@ -618,12 +618,6 @@
     },
     "done": true
   },
-  "create_enchantment_industry:root": {
-    "criteria": {
-      "0": "2025-09-07 13:01:57 +0300"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-09-07 13:01:57 +0300"
@@ -4521,78 +4515,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-07 19:26:46 +0300"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-09-07 18:47:49 +0300"
@@ -4602,24 +4524,6 @@
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-09-07 18:47:49 +0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_damage": {
-    "criteria": {
-      "has_drill": "2025-09-07 19:26:17 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-09-07 19:09:41 +0300"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-09-07 19:09:41 +0300"
     },
     "done": true
   },
@@ -4635,30 +4539,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_capacity": {
-    "criteria": {
-      "has_drill": "2025-09-07 19:26:17 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-09-07 19:09:41 +0300"
-    },
-    "done": true
-  },
-  "advancedperipherals:recipes/redstone/memory_card": {
-    "criteria": {
-      "has_item": "2025-09-07 19:10:13 +0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
-    "criteria": {
-      "has_smooth_basalt": "2025-09-07 19:26:24 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-09-07 18:47:49 +0300"
@@ -4668,6 +4548,48 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-09-07 18:47:49 +0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 18:47:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-07 18:47:49 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-09-07 18:50:45 +0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-07 18:50:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-07 19:09:41 +0300"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-09-07 19:09:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-07 19:09:41 +0300"
     },
     "done": true
   },
@@ -4689,39 +4611,39 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_fortune": {
-    "criteria": {
-      "has_drill": "2025-09-07 19:26:17 +0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bamboo_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-07 18:47:49 +0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-09-07 18:50:45 +0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_lube": {
-    "criteria": {
-      "has_drill": "2025-09-07 19:26:17 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-09-07 19:09:41 +0300"
     },
     "done": true
   },
-  "trashcans:recipes/misc/item_trash_can": {
+  "advancedperipherals:recipes/redstone/memory_card": {
     "criteria": {
-      "recipe_condition": "2025-09-07 18:50:45 +0300"
+      "has_item": "2025-09-07 19:10:13 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_damage": {
+    "criteria": {
+      "has_drill": "2025-09-07 19:26:17 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_capacity": {
+    "criteria": {
+      "has_drill": "2025-09-07 19:26:17 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_fortune": {
+    "criteria": {
+      "has_drill": "2025-09-07 19:26:17 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_drill_lube": {
+    "criteria": {
+      "has_drill": "2025-09-07 19:26:17 +0300"
     },
     "done": true
   },
@@ -4737,11 +4659,83 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
     "criteria": {
-      "has_bamboo": "2025-09-07 18:47:49 +0300"
+      "has_smooth_basalt": "2025-09-07 19:26:24 +0300"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 19:32:51 +0300"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

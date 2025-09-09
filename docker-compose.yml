@@ -15,7 +15,7 @@ services:
       USE_MEOWICE_FLAGS: "true"
       TZ: "Europe/Kiev"
       DIFFICULTY: "2"
-      MEMORY: "7168M"
+      MEMORY: "9000M"
       ENABLE_COMMAND_BLOCK: "true"
       OPS: |-
         Cyber__Sammy
