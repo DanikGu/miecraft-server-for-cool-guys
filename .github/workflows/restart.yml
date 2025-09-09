@@ -15,7 +15,7 @@ jobs:
             sudo su            
             cd ${{secrets.APP_PATH}}
             docker compose down
-            docker compose up
+            docker compose up -d
           EOF
           rm -f private_key.pem
     permissions:
