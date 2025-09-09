@@ -1,6 +1,8 @@
 name: Backup Server State
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   deploy:
     runs-on: ubuntu-latest 
