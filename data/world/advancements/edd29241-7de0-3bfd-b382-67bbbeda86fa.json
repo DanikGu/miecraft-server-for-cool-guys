@@ -3422,6 +3422,7 @@
       "minecraft:cold_ocean": "2025-09-05 22:31:51 +0300",
       "minecraft:beach": "2025-09-08 22:30:23 +0300",
       "minecraft:forest": "2025-09-05 22:29:01 +0300",
+      "minecraft:taiga": "2025-09-09 22:31:23 +0300",
       "minecraft:mangrove_swamp": "2025-09-08 22:36:06 +0300",
       "minecraft:deep_ocean": "2025-09-08 23:06:56 +0300",
       "minecraft:lukewarm_ocean": "2025-09-05 22:27:09 +0300",
@@ -12630,73 +12631,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-09 12:19:18 +0300"
+      "log_spam_fixer": "2025-09-09 22:39:04 +0300"
     },
     "done": false
   },
