@@ -5,9 +5,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2 
-
       - name: SSH and run commands
         env:
           PRIVATE_KEY: ${{ secrets.ARTIFACT_SSH_KEY }} 
